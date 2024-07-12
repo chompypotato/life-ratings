@@ -1,6 +1,6 @@
-echo "# chompypotato.github.io" >> doctype.html
+echo "# chompypotato.github.io" >> README.md
 git init
-git add doctype.html
+git add README.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/chompypotato/chompypotato.github.io.git
