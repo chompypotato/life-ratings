@@ -1,2 +1,3 @@
-<a href="https://chompypotato.github.io/proxies/"></a>
+other pages (cause i suck at coding)
+chompypotato.github.io/proxies
 
