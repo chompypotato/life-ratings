@@ -1,1 +1,1 @@
-<a href="https://www.chompypotato.github.io/">proxies!</a>
+this is my website i made to practice coding.
