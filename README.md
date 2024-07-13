@@ -1,1 +1,2 @@
-this is my crappy website hi
+Main page 
+chompypotato.github.io/about
