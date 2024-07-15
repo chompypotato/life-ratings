@@ -1,1 +1,4 @@
-this is my website i made to practice coding.
+layout: page
+title: "About"
+permalink: /about
+
