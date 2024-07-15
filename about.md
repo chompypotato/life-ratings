@@ -1,17 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body {
-  background-image: url('website-backround.jpg');
-}
-</style>
-  <title>about</title>
-  <link rel="icon" type="image/x-icon" href="/images/favicon (2).ico">
-</head>
-<body>
 
-<h1 style="background-color:Tomato;">This is the about page</h1>
-
-</body>
-</html>
