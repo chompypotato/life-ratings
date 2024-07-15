@@ -6,7 +6,7 @@ body {
   background-image: url('website-backround.jpg');
 }
 </style>
-  <title>Chompypotato</title>
+  <title>about</title>
   <link rel="icon" type="image/x-icon" href="/images/favicon (2).ico">
 </head>
 <body>
