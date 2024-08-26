@@ -1,3 +1,5 @@
-i started this website cause i wanted to learn how to code.
-Now it has a purpose.
-to rate life
+<br>i started this website cause i wanted to learn how to code.
+<br>Now it has a purpose.
+<br>to rate life
+<br>banana picture:  https://commons.wikimedia.org/wiki/File:Bananas_%28Alabama_Extension%29.jpg
+<br>Goose gif: https://www.deviantart.com/prrrk03/art/HONK-HONK-2-NO-TIME-TO-GOOSE-818418013
